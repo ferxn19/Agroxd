@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Verde oscuro de marca AGROCHECK, igual al fondo del splash animado
+         en Dart, para que no haya "parpadeo" de color entre el splash
+         nativo de Android y el splash animado de Flutter. -->
+    <color name="launch_background">#FF1A3A2F</color>
+</resources>

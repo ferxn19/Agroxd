@@ -1,0 +1,11 @@
+CACAO_Monilia
+CACAO_EscobaDeBruja
+CACAO_MalDeMachete
+CACAO_Sano
+PLATANO_SigatokaNegra
+PLATANO_SigatokaAmarilla
+PLATANO_MalDePanama
+PLATANO_Sano
+LIMON_CancroCitrico
+LIMON_Antracnosis
+LIMON_Sano
